@@ -12,7 +12,6 @@ import java.util.logging.Logger;
 public class GUIInGame extends javax.swing.JFrame
 {
     private String zeile;
-    //gfhshgs
     private String nameFight;
     private int slot;
     Random rand = new Random();
